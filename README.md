@@ -1,3 +1,6 @@
+## Live Demo
+
+[Visit SmartCampus](https://smartcampus-2rg7.onrender.com)
 # SmartCampus - Student Resource Exchange Platform
 
 A clean, full-stack student-to-student marketplace built for a specific college campus. Students can list, discover, request, and exchange textbooks, handwritten lecture notes, and engineering stationery without middleman commissions or third-party delivery fees.
